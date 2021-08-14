@@ -16,7 +16,7 @@
 |lte|小於等於|mdate={'lte':'2018-01-01'}|
 |ne|不等於|mdate={'ne':'2018-01-01'}|
 
-# [Data Analysis]
+# Data Analysis
 |Title|Source|Note|
 |---|---|---|
 |[Numpy, Pandas](https://github.com/thezu-twt/TEJ/blob/main/DataAnalysis_NumpyPandas.ipynb)|[金融資料分析numpy&pandas](https://medium.com/tej-api-金融資料分析/資料科學練功坊-一-numpy-pandas-c59896190ca4)|[Financial functions](https://numpy.org/doc/1.17/reference/routines.financial.html)<br>[NumPy v1.21 Manual](https://numpy.org/doc/stable/)|
